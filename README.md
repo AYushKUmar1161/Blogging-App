@@ -18,8 +18,8 @@ file:///C:/Users/ADMIN/Desktop/HTML2/MERN%20Blogging%20App.html
 
 
 
-![MERN BLOG](./Screenshot 2025-09-11 033604.png)
-![MERN BLOG](./Screenshot 2025-09-11 033646.png)
+![MERN BLOG](./Screenshot2025-09-11033604.png)
+![MERN BLOG](./Screenshot2025-09-11033646.png)
 
 
 ## Installation
