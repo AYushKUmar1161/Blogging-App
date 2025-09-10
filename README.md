@@ -16,9 +16,7 @@ file:///C:/Users/ADMIN/Desktop/HTML2/MERN%20Blogging%20App.html
 
 ## 🖼️ Screenshot
 
-
-
-![Mern Blogging App Screenshot](./Screenshot%202025-06-09%20013046.png)
+![Mern Blogging App Screenshot](./https://drive.google.com/file/d/10AG4wxnMVV6pOjye5MjAP-KRda2cM7A1/view?usp=drive_link)
 
 
 
