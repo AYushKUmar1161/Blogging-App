@@ -14,14 +14,6 @@ A full-stack blogging application built with MongoDB, Express.js, React, and Nod
 
 file:///C:/Users/ADMIN/Desktop/HTML2/MERN%20Blogging%20App.html
 
-##  Screenshot
-
-
-
-![MERN BLOG](./Screenshot2025-09-11033604.png)
-![MERN BLOG](./Screenshot2025-09-11033646.png)
-
-
 ## Installation
 
 1. Clone the repository
