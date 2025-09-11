@@ -16,10 +16,12 @@ file:///C:/Users/STUDENT/Downloads/bloggingapp_20250911_4669f2.html
 
 ## 🖼️ Screenshot
 
-> 📌 *Homepage with hero wallpaper and interactive sections*
+<img width="1315" height="651" alt="Screenshot 2025-09-11 033604" src="https://github.com/user-attachments/assets/ba8440ca-c166-4361-8b41-94def8ea426e" />
 
-![Mern Blogging app](./<img width="1315" height="651" alt="Screenshot 2025-09-11 033604" src="https://github.com/user-attachments/assets/ba8440ca-c166-4361-8b41-94def8ea426e" />
-)
+
+<img width="1289" height="639" alt="Screenshot 2025-09-11 033646" src="https://github.com/user-attachments/assets/c9cffa4d-5ea9-4f4a-b402-9894e440d358" />
+
+
 
 ## Installation
 
